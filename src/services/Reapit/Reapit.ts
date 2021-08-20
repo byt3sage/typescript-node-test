@@ -1,5 +1,4 @@
 import { AxiosInstance } from "axios";
-import { Endpoint } from "./Endpoints/Endpoint";
 import { Property } from "./Endpoints/Property";
 
 let axios = require('axios');
